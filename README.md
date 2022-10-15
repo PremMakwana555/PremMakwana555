@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <!--
 **PremMakwana555/PremMakwana555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+
+- 🎓 I am Prem Makwana, a **Java Developer**. Completed my Bachelors Degree in Computer Science and Statistics.
+
+
+- 🔭 I’m currently working on Node.js Project for Creating.
+
+
+- 🌱 I’m currently learning Node.JS, Express.JS, MongoDB
+
+
+- 📫 How to reach me:  `Premmakwana555@gmail.com`
