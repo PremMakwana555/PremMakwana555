@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 🎓 I am Prem Makwana, a **Java Developer**. Completed my Bachelors Degree in Computer Science and Statistics.
 
 
-- 🔭 I’m currently working on Node.js Project.
+- 🔭 I’m currently working on SpringBoot Project.
 
 
-- 🌱 I’m currently learning Node.JS, Express.JS, MongoDB.
+- 🌱 I’m currently learning Kafka, Kubernetes, DSA.
 
 
 - ⚡ Fun fact: Apart from Coding and Problem-Solving, I Love solving 🧩 Puzzles and I Ace at solving Rubik's Cube.
